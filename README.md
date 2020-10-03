@@ -19,6 +19,6 @@ Each promiment function is designed to take a file (in the format of a string) a
 - Use 'take20%' if you wish to see the top 20% of words in a text by frequency or the total summation of appearances for the top 20% of words.
 - Use 'pareto?' to determine if a text follows the Pareto Principle within a specified margin of error (99, 95, or 90). This tests whether the top 20% of words in a text make up roughly 80% (no greater and no less) of the text.
 
-#### My Findings
+#### Findings
 After applying testing the Pareto Principle to multiple texts, I found that even though the 80-20 ratio is common, it is not a mathematically fixed distrubution. Smaller sample sizes were more likely to fall below 80% and neared ratios like 70-20, even for texts as short as two pages! For larger samples, the percentage was frequently above 80% and nearing ratios like 90-20. For example, the first chapter of Dorian Gray had 95%! Despite how many unique words we use, language is repetitive. Looking at the top 20% of words, we see that across all texts, the most frequent words are filler and sentence building words such as "the", "be", "and", "of", and "a". Conversly, the least frequently used words were more likely to be context words such as in Dorian Gray: "pain", "rubbish", "smoking", "odor", and "imprison". Overall, I have found that the 80-20 ratio of the Pareto Principle is not as widely applicable as it seemed, but the core idea that a wide portion of the whole is made up of smaller amount of causes is applicable from texts as short as 2 pages to entire books.
 
